@@ -13,5 +13,5 @@ I am passionate about **Machine Learning** and **Android App Development**. I ha
 ## Contact Me
 * **LinkedIn:** [Your LinkedIn Profile Link]
 * **Twitter:** twitter.com/omarfarooq908
-* **Email:** mohamed.omar.farooq@gmail.com
+* **Email:** mohamed.omar.farooq@gmail.com  
 Feel free to reach out to me if you want to collaborate on any project or if you just want to connect.
