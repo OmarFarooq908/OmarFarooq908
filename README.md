@@ -1,5 +1,5 @@
 # Hi, I'm Muhammad Omar Farooq 👋🏽
-I am interested in Machine Learning and Android development. I have a background in *Machine Learning* and *Android Development* and enjoy working on projects that challenge me to learn new skills.
+I am interested in Machine Learning and Android development. I have a background in **Machine Learning** and **Android Development** and enjoy working on projects that challenge me to learn new skills.
 
 ## Skills
 * *Programming Languages:* Python
