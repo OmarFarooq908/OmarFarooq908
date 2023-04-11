@@ -11,7 +11,7 @@ I am passionate about **Machine Learning** and **Android App Development**. I ha
 * **House Prediction Model(Link to Project 1):** Brief Description of Project 1
 
 ## Contact Me
-* **LinkedIn:** [Your LinkedIn Profile Link]
+* **LinkedIn:** https://www.linkedin.com/in/muhammad-omar-farooq-52a600187/
 * **Twitter:** twitter.com/omarfarooq908
 * **Email:** mohamed.omar.farooq@gmail.com  
 Feel free to reach out to me if you want to collaborate on any project or if you just want to connect.
