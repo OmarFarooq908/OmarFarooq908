@@ -1,16 +1,17 @@
 # Hi, I'm Muhammad Omar Farooq 👋🏽
-I am interested in Machine Learning and Android development. I have a background in **Machine Learning** and **Android Development** and enjoy working on projects that challenge me to learn new skills.
+I am passionate about **Machine Learning** and **Android App Development**. I have a background in Computer Engineering and enjoy working on projects that challenge me to learn new skills.
 
 ## Skills
-* *Programming Languages:* Python
-* *Machine Learning:* [List of ML Libraries you are proficient with]
-* *Android Development:* [List of Android Libraries and Frameworks you are proficient with]
-* *Tools and Technologies:* [List of Tools and Technologies you know]
-Projects
-[Name of Project 1](Link to Project 1): Brief Description of Project 1
-[Name of Project 2](Link to Project 2): Brief Description of Project 2
-[Name of Project 3](Link to Project 3): Brief Description of Project 3
-Contact Me
-LinkedIn: [Your LinkedIn Profile Link]
-Email: [Your Email Address]
+* **Programming Languages:** Python, C++, Java, Kotlin, PHP
+* **Machine Learning:** scikit-learn, TensorFlow, PyTorch 
+* **Android Development:** Flutter
+* **Tools and Technologies:** Git, Hugo, RCS, LaTex
+
+## Projects
+* **House Prediction Model(Link to Project 1):** Brief Description of Project 1
+
+## Contact Me
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Twitter:** twitter.com/omarfarooq908
+* **Email:** mohamed.omar.farooq@gmail.com
 Feel free to reach out to me if you want to collaborate on any project or if you just want to connect.
