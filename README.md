@@ -1,4 +1,16 @@
-Hi, I'm Muhammad Omar Farooq. I am currently pursuing my bachelors in Computer Engineering from University of Engineering and Technology, Taxila.
-My field specific interests are:
-  1. Artificial Intelligence (including Machine Learning and Deep Learning)
-  2. Mobile Application Development
+# Hi, I'm [Your Name] 👋🏽
+I am interested in Machine Learning and Android development. I have a background in [Your Education or Experience] and enjoy working on projects that challenge me to learn new skills.
+
+Skills
+Programming Languages: [List of Programming Languages you know]
+Machine Learning: [List of ML Libraries you are proficient with]
+Android Development: [List of Android Libraries and Frameworks you are proficient with]
+Tools and Technologies: [List of Tools and Technologies you know]
+Projects
+[Name of Project 1](Link to Project 1): Brief Description of Project 1
+[Name of Project 2](Link to Project 2): Brief Description of Project 2
+[Name of Project 3](Link to Project 3): Brief Description of Project 3
+Contact Me
+LinkedIn: [Your LinkedIn Profile Link]
+Email: [Your Email Address]
+Feel free to reach out to me if you want to collaborate on any project or if you just want to connect.
