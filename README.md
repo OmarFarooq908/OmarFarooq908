@@ -8,6 +8,7 @@ I am passionate about **Machine Learning** and **Android App Development**. I ha
 * **Tools and Technologies:** Git, Hugo, RCS, LaTex
 
 ## Projects
+### Machine Learning
 * **House Prediction Model(Link to Project 1):** Brief Description of Project 1
 
 ## Contact Me
