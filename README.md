@@ -10,6 +10,7 @@ I am passionate about **Machine Learning** and **Android App Development**. I ha
 ## Projects
 ### Machine Learning
 * **House Prediction Model(Link to Project 1):** Brief Description of Project 1
+* **Speaker Recognition System (https://github.com/OmarFarooq908/speakerrecognition):** Brief Description
 
 ## Contact Me
 * **LinkedIn:** https://www.linkedin.com/in/muhammad-omar-farooq-52a600187/
