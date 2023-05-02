@@ -5,16 +5,14 @@ I am passionate about **Machine Learning** and **Android App Development**. I ha
 * **Programming Languages:** Python, C++, Java, Kotlin, PHP
 * **Machine Learning:** scikit-learn, TensorFlow, PyTorch 
 * **Android Development:** Flutter
+* **Database:** MySQL
 * **Tools and Technologies:** Git, Hugo, RCS, LaTex
 
 ## Projects
-### Machine Learning
-* **House Prediction Model**
-    * **Link:** Link will be given shortly
-    * **Description:** A brief description will be added shortly
 * **Speaker Recognition System**
     * **Link:** https://github.com/OmarFarooq908/speakerrecognition
     * **Description:** A brief description will be added shortly
+
 
 ## Contact Me
 * **LinkedIn:** https://www.linkedin.com/in/muhammad-omar-farooq-52a600187/
