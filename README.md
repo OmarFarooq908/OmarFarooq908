@@ -8,11 +8,13 @@ I am passionate about **Machine Learning** and **Android App Development**. I ha
 * **Database:** MySQL
 * **Tools and Technologies:** Git, Hugo, RCS, LaTex
 
-## Projects
+## Selected project
 * **Speaker Recognition System**
     * **Link:** https://github.com/OmarFarooq908/speakerrecognition
-    * **Description:** A brief description will be added shortly
-
+    * **Description:** This was a semester project for the course of 'Digital Signal Processing'. Team consisted of two fellow project members and myself. Concept of binary trees was employeed in the development of the project.
+* **Hello World Kernal and Bootloader**
+    * **Link:** https://github.com/OmarFarooq908/myos
+    * **Description:** 
 
 ## Contact Me
 * **LinkedIn:** https://www.linkedin.com/in/muhammad-omar-farooq-52a600187/
