@@ -1,5 +1,5 @@
 # Hi, I'm Muhammad Omar Farooq 👋🏽
-I am passionate about **Machine Learning** and **Android App Development**. I have a background in Computer Engineering and enjoy working on projects that challenge me to learn new skills.
+I am passionate about **AI**, **Software Development** and **Cyber Security**. My expertise include **Artificial Intelligence** and **Software Development**. I have a background in Computer Engineering and enjoy working on challenging projects solve a significant problem.
 
 ## Skills
 * **Programming Languages:** Python, C++, Java, Kotlin, PHP
