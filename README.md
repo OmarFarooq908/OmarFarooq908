@@ -14,7 +14,7 @@ I am passionate about **AI**, **Software Development** and **Cyber Security**. M
     * **Description:** This was a semester project for the course of 'Digital Signal Processing'. Team consisted of two fellow project members and myself. Concept of binary trees was employeed in the development of the project.
 * **Hello World Kernal and Bootloader**
     * **Link:** https://github.com/OmarFarooq908/myos
-    * **Description:** 
+    * **Description:** This project was a personal learning project. The purpose of the project was the learn the underlying concepts of operating system, rather than solve a problem.
 
 ## Contact Me
 * **LinkedIn:** https://www.linkedin.com/in/muhammad-omar-farooq-52a600187/
