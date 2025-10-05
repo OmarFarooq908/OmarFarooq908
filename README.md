@@ -1,23 +1,64 @@
-# Hi, I'm Muhammad Omar Farooq 👋🏽
-I am passionate about **AI**, **Software Development** and **Cyber Security**. My expertise include **Artificial Intelligence** and **Software Development**. I have a background in Computer Engineering and enjoy working on challenging projects solve a significant problem.
+# 👋 Hi, I'm Muhammad Omar Farooq  
 
-## Skills
-* **Programming Languages:** Python, C++, Java, Kotlin, PHP
-* **Machine Learning:** scikit-learn, TensorFlow, PyTorch 
-* **Android Development:** Flutter
-* **Database:** MySQL
-* **Tools and Technologies:** Git, Hugo, RCS, LaTex
+💼 **Software Engineer at Devsinc**  
+🌍 Delivering **global-scale Data Engineering** and **AI-driven solutions**  
+🧠 Specializing in **Large Language Models (LLMs)**, **Automation**, and **Intelligent Data Systems**
 
-## Selected project
-* **Speaker Recognition System**
-    * **Link:** https://github.com/OmarFarooq908/speakerrecognition
-    * **Description:** This was a semester project for the course of 'Digital Signal Processing'. Team consisted of two fellow project members and myself. Concept of binary trees was employeed in the development of the project.
-* **Hello World Kernal and Bootloader**
-    * **Link:** https://github.com/OmarFarooq908/myos
-    * **Description:** This project was a personal learning project. The purpose of the project was the learn the underlying concepts of operating system, rather than solve a problem.
+---
 
-## Contact Me
-* **LinkedIn:** https://www.linkedin.com/in/muhammad-omar-farooq-52a600187/
-* **Twitter:** https://www.twitter.com/omarfarooq908/
-* **Email:** mohamed.omar.farooq@gmail.com  
-Feel free to reach out to me if you want to collaborate on any project or if you just want to connect.
+## 🚀 About Me  
+
+I am a **Software Engineer** at [Devsinc](https://www.devsinc.com), where I architect and implement **data-intensive systems**, **AI-powered applications**, and **scalable backend infrastructures** for clients across diverse industries worldwide.  
+
+My work bridges **AI, data engineering, and systems design** — transforming complex data into actionable intelligence through automation and intelligent algorithms. I am passionate about building reliable, high-performance software that integrates advanced analytics, machine learning, and distributed computing.
+
+> I believe in engineering systems that **learn continuously**, **automate intelligently**, and **scale efficiently**.
+
+---
+
+## 🧩 Areas of Expertise  
+
+- 🧠 **Large Language Models (LLMs)** — Integration, fine-tuning, and deployment for enterprise and research use cases  
+- ⚙️ **Data Engineering** — Design and implementation of ETL/ELT pipelines using modern Python-based data stacks  
+- 🗄️ **Database Design** — Relational and NoSQL schema modeling for analytics and performance optimization  
+- 🔗 **API & Microservice Architecture** — Building secure, scalable RESTful services for AI and data applications  
+- ☁️ **Cloud & Containerization** — Orchestrating environments with Docker, Kubernetes, and cloud automation tools  
+- 🤖 **Machine Learning Development** — End-to-end model training, evaluation, and deployment for real-world systems  
+
+---
+
+## 🧰 Technical Proficiencies  
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Languages** | Python, Bash, JavaScript, SQL |
+| **AI / ML Frameworks** | PyTorch, TensorFlow, Scikit-learn, LangChain, Hugging Face Transformers |
+| **Data Engineering Tools** | Pandas, NumPy, Apache Airflow, ETL/ELT Pipelines |
+| **Backend Frameworks** | FastAPI, Flask, Node.js (Express) |
+| **Cloud & DevOps** | Docker, Kubernetes, Azure, RunPod |
+| **Databases** | MySQL, PostgreSQL, Airtable |
+| **Version Control & CI/CD** | Git, GitHub Actions |
+| **Operating Systems** | Linux (RedHat/Debian) |
+
+---
+
+## 🔍 Professional Interests  
+
+- Building **scalable data pipelines** to support enterprise-level AI systems  
+- Developing **LLM-integrated applications** with measurable business and research impact  
+- Enhancing **cloud infrastructure and DevOps pipelines** for AI workloads  
+- Contributing to **open-source projects** in AI, data engineering, and distributed systems 
+
+---
+
+## 📫 Connect with Me  
+
+- 📧 **Email:** [mohamed.omar.farooq@gmail.com](mailto:mohamed.omar.farooq@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/mofarooque](https://www.linkedin.com/in/mofarooque/)  
+- 🧑‍💻 **GitHub:** [github.com/omarfarooq908](https://github.com/omarfarooq908)  
+
+---
+
+### ✨ “Code. Automate. Optimize. Inspire.”  
+
+> *Engineering intelligent systems that transform data into knowledge and knowledge into impact.*
