@@ -33,7 +33,7 @@ My work bridges **AI, data engineering, and systems design** — transforming co
 |-----------|--------------|
 | **Programming Languages** | Python, Bash, JavaScript, SQL |
 | **AI / ML Frameworks** | PyTorch, TensorFlow, Scikit-learn, LangChain, Hugging Face Transformers |
-| **Data Engineering Tools** | Pandas, NumPy, Apache Airflow, ETL/ELT Pipelines |
+| **Data Engineering Tools** | Pandas, NumPy, Apache Airflow, AWS, Databricks, dbt, Airbyte |
 | **Backend Frameworks** | FastAPI, Flask, Node.js (Express) |
 | **Cloud & DevOps** | Docker, Kubernetes, Azure, RunPod |
 | **Databases** | MySQL, PostgreSQL, Airtable |
