@@ -1,45 +1,46 @@
 # 👋 Muhammad Omar Farooq
 
-**Data Engineer @ Devsinc**  
-Building scalable data platforms, analytics pipelines, and AI-powered data systems.
+**Software Engineer @ Devsinc**  
+Focused on Data Engineering, Scalable Backend Systems, and AI-powered Data Platforms
 
 ---
 
 ## 🚀 About Me
 
-I am a **Data Engineer** working at Devsinc, specializing in designing and optimizing **production-grade data pipelines and analytics systems**.
+I am a **Software Engineer at Devsinc**, working primarily in the domain of **data engineering and backend systems development**.
 
-My work focuses on transforming raw, large-scale data into reliable, queryable, and business-ready datasets using modern data stack tools like **Snowflake, dbt, Airflow, and Python-based ETL systems**.
+My work revolves around designing and optimizing **production-grade data pipelines, warehouse systems, and ETL workflows** using modern data stack technologies like **Snowflake, dbt, Airflow, and Python-based systems**.
 
-I also build **AI-integrated data systems**, enabling natural language querying and intelligent analytics on top of enterprise data warehouses.
+Alongside data engineering, I also build **AI-integrated applications** that enhance data accessibility through intelligent querying and automation.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Core Focus Areas
 
-### 📊 Data Engineering & Analytics
-- Modern data warehouse design (Snowflake, PostgreSQL, MySQL)
-- ETL/ELT pipeline development (Airflow, Airbyte, Python)
-- dbt modeling (staging, marts, incremental models, SCD Type 2)
+### 📊 Data Engineering
+- ETL/ELT pipeline design and optimization
+- Snowflake-based data warehouse development
+- dbt modeling (staging, marts, incremental, SCD Type 2)
+- Data migration workflows (MySQL ↔ PostgreSQL)
 - Query optimization and performance tuning
-- Data validation, testing, and quality frameworks
 
-### ⚙️ Backend & Systems Engineering
-- API development (FastAPI, Flask, Node.js)
-- Distributed data workflows and batch processing
-- System design for scalable data platforms
+### ⚙️ Backend Systems
+- Python-based backend services (FastAPI, Flask)
+- API development and integration
+- Distributed data processing workflows
+- System design for scalable applications
 
-### 🤖 AI-Integrated Data Systems
+### 🤖 AI + Data Systems
 - LLM-powered analytics assistants
 - RAG-based data querying systems
-- AI agents for structured business intelligence workflows
+- AI agents for structured business workflows
 - OpenAI API integrations for data exploration
 
 ### ☁️ Cloud & Infrastructure
-- AWS, Azure-based data pipelines
+- AWS & Azure-based deployments
 - Docker containerization
-- Kubernetes orchestration (basic production usage)
-- CI/CD pipelines for data workflows
+- Kubernetes (basic production usage)
+- CI/CD pipelines for data systems
 
 ---
 
@@ -51,64 +52,64 @@ Python • SQL • Bash • JavaScript
 ### Data Engineering
 Snowflake • dbt • Apache Airflow • Airbyte • PostgreSQL • MySQL
 
-### AI / ML Systems
-OpenAI API • LangChain • LlamaIndex • CrewAI • Hugging Face
+### AI / ML
+OpenAI API • LangChain • LlamaIndex • CrewAI • Hugging Face Transformers
 
 ### Backend
 FastAPI • Flask • Node.js (Express)
 
-### DevOps / Cloud
+### Cloud & DevOps
 Docker • Kubernetes • AWS • Azure • GitHub Actions
 
 ---
 
 ## 📈 Engineering Impact
 
-- Reduced **HubSpot sync pipeline runtime from 16 hours → 6 hours** for 5M+ records using optimized parallel processing
-- Improved **MySQL → PostgreSQL migration performance by 40%**
-- Built and maintained **production Snowflake + dbt pipelines across multiple systems**
-- Implemented **incremental ETL and SCD Type 2 models** for historical data tracking
-- Developed **automated data validation frameworks** improving production reliability
-- Designed internal **AI-powered analytics assistant using Cortex-style querying systems**
-- Mentored junior engineers through PR reviews and data pipeline best practices
+- Reduced **HubSpot sync pipeline runtime from 16h → 6h** for 5M+ records using optimized parallel processing
+- Improved **database migration performance by ~40%** in MySQL → PostgreSQL workflows
+- Built and maintained **production Snowflake + dbt data pipelines**
+- Designed **incremental ETL systems and SCD Type 2 models** for historical tracking
+- Implemented **automated data quality and validation frameworks**
+- Developed internal **AI-powered analytics assistant for business querying**
+- Collaborated with engineers through PR reviews and system design feedback
 
 ---
 
-## 🚧 Current Focus
+## 🚧 Current Work
 
-- Scaling production-grade ETL pipelines in Snowflake + dbt ecosystem
-- Improving data warehouse architecture and modeling strategies
-- Building AI-powered analytics systems for business intelligence
-- Optimizing large-scale data ingestion and transformation workflows
-- Enhancing data reliability through automated validation systems
+- Enhancing production ETL pipelines in Snowflake + dbt ecosystem
+- Optimizing large-scale data ingestion and transformation systems
+- Building AI-powered analytics tools for business intelligence
+- Improving data reliability through automated validation systems
+- Designing scalable backend systems for data-heavy applications
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 Modern Data Stack Platform
-Production-style data warehouse system built with Airflow, dbt, and Snowflake for scalable analytics workflows.
+### 📦 Modern Data Pipeline System
+Production-style ETL system built using Airflow, dbt, and Snowflake for scalable analytics workflows.
 
 ### 🤖 AI Analytics Assistant
-LLM-powered system enabling natural language querying of structured business data using RAG-based architecture.
+LLM-powered system enabling natural language querying over structured business data using RAG-based architecture.
 
 ### ⚡ High-Performance ETL Framework
-Python-based ETL pipeline system supporting batch processing, retries, and incremental data ingestion at scale.
+Python-based ETL engine supporting incremental loads, retries, and parallel processing for large datasets.
 
 ---
 
-## 🎯 Professional Interests
+## 🎯 Interests
 
 - Modern Data Stack architecture
-- Scalable ETL/ELT pipeline design
+- Scalable ETL/ELT systems
 - Data warehouse optimization
 - AI + data engineering integration
-- LLM-based analytics systems
-- Distributed data processing systems
+- LLM-powered analytics systems
+- Distributed backend systems
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
 - 📧 Email: mohamed.omar.farooq@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/mofarooque  
@@ -118,6 +119,6 @@ Python-based ETL pipeline system supporting batch processing, retries, and incre
 
 ## ✨ Philosophy
 
-> Build systems that are not just functional — but reliable, scalable, and intelligent.
+> Build systems that are scalable, reliable, and data-driven — with intelligence layered on top.
 
 ---
